@@ -27,6 +27,7 @@ def help(temp):
         return "i will die soon"
     elif temp > 80:
         return "im burning in hell"
-    else: "im a popsicle"
+    else:
+        return "im a popsicle"
 
 print(help(70))
