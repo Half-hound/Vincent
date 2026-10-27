@@ -33,3 +33,6 @@ def isprime(num):
                     else:
                         return "prime"
 
+list1=list(range(0,11))
+
+
